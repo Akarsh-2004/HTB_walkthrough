@@ -332,5 +332,3 @@ nc -lvnp 443
 * Tools: `nmap`, `ffuf`, `dirsearch`, `john`, `gcc`, `objcopy`, `nc`, `curl`.
 
 ---
-
-If you want this README exported as a `README.md` file, or reformatted as a blog-style writeup (with redactions or more screenshots), tell me how you'd like it output and I can prepare it next.
